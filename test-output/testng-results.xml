@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-10T12:25:50 IST" name="automationFramev1" finished-at="2024-12-10T12:27:56 IST" duration-ms="126048">
+    <groups>
+    </groups>
+    <test started-at="2024-12-10T12:25:50 IST" name="automationFramev1" finished-at="2024-12-10T12:27:56 IST" duration-ms="126048">
+      <class name="com.automationFramev1.testCases.TC_TestCases_001">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@68c9d179]" started-at="2024-12-10T12:25:51 IST" name="initializeDriver" finished-at="2024-12-10T12:25:59 IST" duration-ms="8566" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="testUserRegistration()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@68c9d179]" started-at="2024-12-10T12:25:59 IST" name="testUserRegistration" finished-at="2024-12-10T12:26:07 IST" duration-ms="8312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@68c9d179]" started-at="2024-12-10T12:26:07 IST" name="tearDown" finished-at="2024-12-10T12:26:08 IST" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationFramev1.testCases.TC_TestCases_001 -->
+      <class name="com.automationFramev1.testCases.TC_TestCases">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:26:08 IST" name="initializeDriver" finished-at="2024-12-10T12:26:53 IST" duration-ms="44949" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:26:55 IST" name="loginData" data-provider="getdata" finished-at="2024-12-10T12:27:09 IST" duration-ms="14144" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mng605786]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arjun@9738522340]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginData -->
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:27:09 IST" name="loginData" data-provider="getdata" finished-at="2024-12-10T12:27:22 IST" duration-ms="12981" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr6017]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UsyvAde]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginData -->
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:27:22 IST" name="loginData" data-provider="getdata" finished-at="2024-12-10T12:27:30 IST" duration-ms="7897" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mallikarjundalal409@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arjun@9738522340]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginData -->
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:27:30 IST" name="loginData" data-provider="getdata" finished-at="2024-12-10T12:27:42 IST" duration-ms="12596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginData -->
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:27:42 IST" name="loginData" data-provider="getdata" finished-at="2024-12-10T12:27:56 IST" duration-ms="13563" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:27:56 IST" name="tearDown" finished-at="2024-12-10T12:27:56 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationFramev1.testCases.TC_TestCases -->
+    </test> <!-- automationFramev1 -->
+  </suite> <!-- automationFramev1 -->
+</testng-results>
