@@ -1,7 +1,9 @@
-C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\testCases\TC_TestCases_001.java
-C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\utilities\xlfile.java
-C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\testCases\Baseclass.java
-C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\utilities\ExtentReport.java
-C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\testCases\TC_TestCases_002.java
-C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\utilities\ReadConfig.java
+C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\pageObjects\HomePage.java
 C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\pageObjects\Registerpage.java
+C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\testCases\Baseclass.java
+C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\testCases\TC_TestCases_001.java
+C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\testCases\TC_TestCases_002.java
+C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\testCases\TC_TestCases_003.java
+C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\utilities\ExtentReport.java
+C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\utilities\ReadConfig.java
+C:\Users\Admin\eclipse-workspace\automationFramev1\src\test\java\com\automationFramev1\utilities\Xlutil.java

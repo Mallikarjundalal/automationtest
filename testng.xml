@@ -9,7 +9,8 @@
         <classes>
             <!--<class name="com.automationFramev1.testCases.Baseclass"/>--> 
             <class name="com.automationFramev1.testCases.TC_TestCases_001"/>
-             <class name="com.automationFramev1.testCases.TC_TestCases" />
+              <class name="com.automationFramev1.testCases.TC_TestCases_002" />
+             <class name="com.automationFramev1.testCases.TC_TestCases_003" />
         </classes>
     </test>
 </suite>

@@ -38,6 +38,7 @@ public class Baseclass {
         if (browser.equalsIgnoreCase("chrome")) {
             System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + rd.chromePath());
             driver = new ChromeDriver();
+            driver.manage().window().maximize();
         } else if (browser.equalsIgnoreCase("firefox")) {
             System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir") + rd.fireFoxpath());
             driver = new FirefoxDriver();

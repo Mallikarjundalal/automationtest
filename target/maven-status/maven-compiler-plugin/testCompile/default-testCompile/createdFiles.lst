@@ -1,0 +1,9 @@
+com\automationFramev1\testCases\TC_TestCases_001.class
+com\automationFramev1\utilities\Xlutil.class
+com\automationFramev1\testCases\Baseclass.class
+com\automationFramev1\testCases\TC_TestCases_003.class
+com\automationFramev1\utilities\ExtentReport.class
+com\automationFramev1\pageObjects\HomePage.class
+com\automationFramev1\utilities\ReadConfig.class
+com\automationFramev1\pageObjects\Registerpage.class
+com\automationFramev1\testCases\TC_TestCases_002.class

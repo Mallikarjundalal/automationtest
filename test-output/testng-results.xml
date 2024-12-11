@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-10T12:25:50 IST" name="automationFramev1" finished-at="2024-12-10T12:27:56 IST" duration-ms="126048">
+  <suite started-at="2024-12-11T10:46:16 IST" name="automationFramev1" finished-at="2024-12-11T10:47:59 IST" duration-ms="103163">
     <groups>
     </groups>
-    <test started-at="2024-12-10T12:25:50 IST" name="automationFramev1" finished-at="2024-12-10T12:27:56 IST" duration-ms="126048">
-      <class name="com.automationFramev1.testCases.TC_TestCases_001">
-        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@68c9d179]" started-at="2024-12-10T12:25:51 IST" name="initializeDriver" finished-at="2024-12-10T12:25:59 IST" duration-ms="8566" status="PASS">
+    <test started-at="2024-12-11T10:46:16 IST" name="automationFramev1" finished-at="2024-12-11T10:47:59 IST" duration-ms="103163">
+      <class name="com.automationFramev1.testCases.TC_TestCases_003">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_003@dc7df28]" started-at="2024-12-11T10:47:33 IST" name="initializeDriver" finished-at="2024-12-11T10:47:38 IST" duration-ms="4499" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriver -->
-        <test-method signature="testUserRegistration()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@68c9d179]" started-at="2024-12-10T12:25:59 IST" name="testUserRegistration" finished-at="2024-12-10T12:26:07 IST" duration-ms="8312" status="PASS">
+        <test-method signature="homePageTest()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_003@dc7df28]" started-at="2024-12-11T10:47:38 IST" name="homePageTest" finished-at="2024-12-11T10:47:59 IST" duration-ms="20989" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testUserRegistration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@68c9d179]" started-at="2024-12-10T12:26:07 IST" name="tearDown" finished-at="2024-12-10T12:26:08 IST" duration-ms="630" status="PASS">
+        </test-method> <!-- homePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_003@dc7df28]" started-at="2024-12-11T10:47:59 IST" name="tearDown" finished-at="2024-12-11T10:47:59 IST" duration-ms="360" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.automationFramev1.testCases.TC_TestCases_001 -->
-      <class name="com.automationFramev1.testCases.TC_TestCases">
-        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:26:08 IST" name="initializeDriver" finished-at="2024-12-10T12:26:53 IST" duration-ms="44949" status="PASS">
+      </class> <!-- com.automationFramev1.testCases.TC_TestCases_003 -->
+      <class name="com.automationFramev1.testCases.TC_TestCases_002">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@55de24cc]" started-at="2024-12-11T10:46:30 IST" name="initializeDriver" finished-at="2024-12-11T10:46:35 IST" duration-ms="4812" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriver -->
-        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:26:55 IST" name="loginData" data-provider="getdata" finished-at="2024-12-10T12:27:09 IST" duration-ms="14144" status="PASS">
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@55de24cc]" started-at="2024-12-11T10:46:36 IST" name="loginData" data-provider="getdata" finished-at="2024-12-11T10:46:50 IST" duration-ms="13201" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -55,7 +55,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginData -->
-        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:27:09 IST" name="loginData" data-provider="getdata" finished-at="2024-12-10T12:27:22 IST" duration-ms="12981" status="PASS">
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@55de24cc]" started-at="2024-12-11T10:46:50 IST" name="loginData" data-provider="getdata" finished-at="2024-12-11T10:47:04 IST" duration-ms="14404" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -71,7 +71,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginData -->
-        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:27:22 IST" name="loginData" data-provider="getdata" finished-at="2024-12-10T12:27:30 IST" duration-ms="7897" status="PASS">
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@55de24cc]" started-at="2024-12-11T10:47:04 IST" name="loginData" data-provider="getdata" finished-at="2024-12-11T10:47:08 IST" duration-ms="4115" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -87,7 +87,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginData -->
-        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:27:30 IST" name="loginData" data-provider="getdata" finished-at="2024-12-10T12:27:42 IST" duration-ms="12596" status="PASS">
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@55de24cc]" started-at="2024-12-11T10:47:08 IST" name="loginData" data-provider="getdata" finished-at="2024-12-11T10:47:21 IST" duration-ms="12460" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -103,7 +103,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginData -->
-        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:27:42 IST" name="loginData" data-provider="getdata" finished-at="2024-12-10T12:27:56 IST" duration-ms="13563" status="PASS">
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@55de24cc]" started-at="2024-12-11T10:47:21 IST" name="loginData" data-provider="getdata" finished-at="2024-12-11T10:47:33 IST" duration-ms="12380" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -119,11 +119,32 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginData -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases@1c742ed4]" started-at="2024-12-10T12:27:56 IST" name="tearDown" finished-at="2024-12-10T12:27:56 IST" duration-ms="327" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@55de24cc]" started-at="2024-12-11T10:47:33 IST" name="tearDown" finished-at="2024-12-11T10:47:33 IST" duration-ms="313" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.automationFramev1.testCases.TC_TestCases -->
+      </class> <!-- com.automationFramev1.testCases.TC_TestCases_002 -->
+      <class name="com.automationFramev1.testCases.TC_TestCases_001">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@2dfaea86]" started-at="2024-12-11T10:46:16 IST" name="initializeDriver" finished-at="2024-12-11T10:46:22 IST" duration-ms="5633" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="testUserRegistration()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@2dfaea86]" started-at="2024-12-11T10:46:22 IST" name="testUserRegistration" finished-at="2024-12-11T10:46:30 IST" duration-ms="7545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@2dfaea86]" started-at="2024-12-11T10:46:30 IST" name="tearDown" finished-at="2024-12-11T10:46:30 IST" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationFramev1.testCases.TC_TestCases_001 -->
     </test> <!-- automationFramev1 -->
   </suite> <!-- automationFramev1 -->
 </testng-results>

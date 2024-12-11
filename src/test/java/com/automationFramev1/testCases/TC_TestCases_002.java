@@ -14,7 +14,7 @@ import com.automationFramev1.pageObjects.Registerpage;
 import com.automationFramev1.utilities.Xlutil;
 
 
-public class TC_TestCases extends Baseclass {
+public class TC_TestCases_002 extends Baseclass {
 
     @Test(dataProvider = "getdata")
     public void loginData(String user, String pass) throws InterruptedException {

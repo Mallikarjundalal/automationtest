@@ -1082,3 +1082,716 @@ Session ID: 0389d3c4bac990290b33f7af73029f27
 2024-12-10 12:27:45 INFO  Baseclass:35 - Clicked on 'Login' button
 2024-12-10 12:27:56 ERROR Baseclass:52 - Login failed for user: 
 2024-12-10 12:27:56 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 20:46:38 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 20:46:47 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 20:55:30 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 20:55:33 INFO  Baseclass:15 - click shopbutton
+2024-12-10 20:55:35 INFO  Baseclass:17 - click home button
+2024-12-10 20:55:35 INFO  Baseclass:19 - click product1 addtocart
+2024-12-10 20:55:36 INFO  Baseclass:21 - click product2 addtocart
+2024-12-10 20:55:36 INFO  Baseclass:23 - click product3 addtocart
+2024-12-10 20:55:36 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 20:56:26 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 20:56:33 INFO  Baseclass:15 - click shopbutton
+2024-12-10 20:56:35 INFO  Baseclass:17 - click home button
+2024-12-10 20:56:35 INFO  Baseclass:19 - click product1 addtocart
+2024-12-10 20:56:35 INFO  Baseclass:21 - click product2 addtocart
+2024-12-10 20:56:36 INFO  Baseclass:23 - click product3 addtocart
+2024-12-10 20:56:36 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 20:57:09 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 20:57:12 INFO  Baseclass:15 - click shopbutton
+2024-12-10 20:57:13 INFO  Baseclass:17 - click home button
+2024-12-10 20:57:14 INFO  Baseclass:19 - click product1 addtocart
+2024-12-10 20:57:14 INFO  Baseclass:21 - click product2 addtocart
+2024-12-10 20:57:14 INFO  Baseclass:23 - click product3 addtocart
+2024-12-10 20:57:14 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:10:23 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:10:25 INFO  Baseclass:15 - click shopbutton
+2024-12-10 21:10:27 INFO  Baseclass:17 - click home button
+2024-12-10 21:10:27 INFO  Baseclass:19 - click product1 addtocart
+2024-12-10 21:10:27 INFO  Baseclass:21 - click product2 addtocart
+2024-12-10 21:10:28 INFO  Baseclass:23 - click product3 addtocart
+2024-12-10 21:10:29 INFO  Baseclass:25 - click shopcarticon addtocart
+2024-12-10 21:10:30 INFO  Baseclass:30 - click seleniumRuby a
+2024-12-10 21:10:32 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:11:04 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:11:06 INFO  Baseclass:15 - click shopbutton
+2024-12-10 21:11:08 INFO  Baseclass:17 - click home button
+2024-12-10 21:11:08 INFO  Baseclass:19 - click product1 addtocart
+2024-12-10 21:11:09 INFO  Baseclass:21 - click product2 addtocart
+2024-12-10 21:11:09 INFO  Baseclass:23 - click product3 addtocart
+2024-12-10 21:11:09 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:11:38 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:11:40 INFO  Baseclass:15 - click shopbutton
+2024-12-10 21:11:44 INFO  Baseclass:17 - click home button
+2024-12-10 21:11:46 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:12:40 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:12:44 INFO  Baseclass:15 - click shopbutton
+2024-12-10 21:12:45 INFO  Baseclass:17 - click home button
+2024-12-10 21:12:46 INFO  Baseclass:19 - click product1 addtocart
+2024-12-10 21:12:46 INFO  Baseclass:21 - click product2 addtocart
+2024-12-10 21:12:46 INFO  Baseclass:23 - click product3 addtocart
+2024-12-10 21:12:46 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:14:13 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:14:15 INFO  Baseclass:15 - click shopbutton
+2024-12-10 21:14:17 INFO  Baseclass:17 - click home button
+2024-12-10 21:14:17 INFO  Baseclass:19 - click product1 addtocart
+2024-12-10 21:14:17 INFO  Baseclass:21 - click product2 addtocart
+2024-12-10 21:14:17 INFO  Baseclass:23 - click product3 addtocart
+2024-12-10 21:14:18 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:15:48 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:15:52 INFO  Baseclass:15 - click shopbutton
+2024-12-10 21:15:54 INFO  Baseclass:17 - click home button
+2024-12-10 21:15:54 INFO  Baseclass:19 - click product1 addtocart
+2024-12-10 21:15:55 INFO  Baseclass:21 - click product2 addtocart
+2024-12-10 21:15:55 INFO  Baseclass:23 - click product3 addtocart
+2024-12-10 21:15:56 INFO  Baseclass:25 - click shopcarticon addtocart
+2024-12-10 21:15:57 INFO  Baseclass:30 - click seleniumRuby a
+2024-12-10 21:16:00 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:16:54 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:16:58 INFO  Baseclass:15 - click shopbutton
+2024-12-10 21:17:00 INFO  Baseclass:17 - click home button
+2024-12-10 21:17:00 INFO  Baseclass:19 - click product1 addtocart
+2024-12-10 21:17:00 INFO  Baseclass:21 - click product2 addtocart
+2024-12-10 21:17:00 INFO  Baseclass:23 - click product3 addtocart
+2024-12-10 21:17:02 INFO  Baseclass:25 - click shopcarticon addtocart
+2024-12-10 21:17:02 INFO  Baseclass:31 - click seleniumRuby a
+2024-12-10 21:17:05 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:17:46 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:17:48 INFO  Baseclass:15 - click shopbutton
+2024-12-10 21:17:50 INFO  Baseclass:17 - click home button
+2024-12-10 21:17:50 INFO  Baseclass:19 - click product1 addtocart
+2024-12-10 21:17:50 INFO  Baseclass:21 - click product2 addtocart
+2024-12-10 21:17:51 INFO  Baseclass:23 - click product3 addtocart
+2024-12-10 21:17:51 INFO  Baseclass:25 - click shopcarticon addtocart
+2024-12-10 21:18:01 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:18:23 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:18:25 INFO  Baseclass:15 - click shopbutton
+2024-12-10 21:18:27 INFO  Baseclass:17 - click home button
+2024-12-10 21:18:27 INFO  Baseclass:19 - click product1 addtocart
+2024-12-10 21:18:27 INFO  Baseclass:21 - click product2 addtocart
+2024-12-10 21:18:28 INFO  Baseclass:23 - click product3 addtocart
+2024-12-10 21:18:29 INFO  Baseclass:25 - click shopcarticon addtocart
+2024-12-10 21:18:33 INFO  Baseclass:32 - click seleniumRuby a
+2024-12-10 21:18:36 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:22:50 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:22:54 INFO  Baseclass:16 - click shopbutton
+2024-12-10 21:22:56 INFO  Baseclass:18 - click home button
+2024-12-10 21:22:56 INFO  Baseclass:20 - click product1 addtocart
+2024-12-10 21:22:57 INFO  Baseclass:22 - click product2 addtocart
+2024-12-10 21:22:57 INFO  Baseclass:24 - click product3 addtocart
+2024-12-10 21:22:58 INFO  Baseclass:26 - click shopcarticon addtocart
+2024-12-10 21:23:09 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:23:30 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:23:33 INFO  Baseclass:16 - click shopbutton
+2024-12-10 21:23:34 INFO  Baseclass:18 - click home button
+2024-12-10 21:23:35 INFO  Baseclass:20 - click product1 addtocart
+2024-12-10 21:23:35 INFO  Baseclass:22 - click product2 addtocart
+2024-12-10 21:23:35 INFO  Baseclass:24 - click product3 addtocart
+2024-12-10 21:23:37 INFO  Baseclass:26 - click shopcarticon addtocart
+2024-12-10 21:23:40 INFO  Baseclass:33 - click seleniumRuby a
+2024-12-10 21:23:43 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:30:33 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:30:35 INFO  Baseclass:17 - click shopbutton
+2024-12-10 21:30:37 INFO  Baseclass:19 - click home button
+2024-12-10 21:30:37 INFO  Baseclass:21 - click product1 addtocart
+2024-12-10 21:30:38 INFO  Baseclass:23 - click product2 addtocart
+2024-12-10 21:30:38 INFO  Baseclass:25 - click product3 addtocart
+2024-12-10 21:30:39 INFO  Baseclass:27 - click shopcarticon addtocart
+2024-12-10 21:30:40 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:37:30 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:37:51 INFO  Baseclass:17 - click shopbutton
+2024-12-10 21:37:52 INFO  Baseclass:19 - click home button
+2024-12-10 21:37:52 INFO  Baseclass:21 - click product1 addtocart
+2024-12-10 21:37:53 INFO  Baseclass:23 - click product2 addtocart
+2024-12-10 21:37:53 INFO  Baseclass:25 - click product3 addtocart
+2024-12-10 21:37:53 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:39:13 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:39:15 INFO  Baseclass:19 - click shopbutton
+2024-12-10 21:39:17 INFO  Baseclass:21 - click home button
+2024-12-10 21:39:18 INFO  Baseclass:23 - click product1 addtocart
+2024-12-10 21:39:18 INFO  Baseclass:25 - click product2 addtocart
+2024-12-10 21:39:18 INFO  Baseclass:27 - click product3 addtocart
+2024-12-10 21:39:18 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:40:42 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:40:45 INFO  Baseclass:19 - click shopbutton
+2024-12-10 21:40:48 INFO  Baseclass:21 - click home button
+2024-12-10 21:40:49 INFO  Baseclass:23 - click product1 addtocart
+2024-12-10 21:40:49 INFO  Baseclass:25 - click product2 addtocart
+2024-12-10 21:40:49 INFO  Baseclass:27 - click product3 addtocart
+2024-12-10 21:40:52 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-10 21:40:52 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:41:30 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:41:37 INFO  Baseclass:19 - click shopbutton
+2024-12-10 21:41:39 INFO  Baseclass:21 - click home button
+2024-12-10 21:41:39 INFO  Baseclass:23 - click product1 addtocart
+2024-12-10 21:41:40 INFO  Baseclass:25 - click product2 addtocart
+2024-12-10 21:41:40 INFO  Baseclass:27 - click product3 addtocart
+2024-12-10 21:41:40 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 21:57:39 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 21:57:41 INFO  Baseclass:19 - click shopbutton
+2024-12-10 21:57:43 INFO  Baseclass:21 - click home button
+2024-12-10 21:57:43 INFO  Baseclass:23 - click product1 addtocart
+2024-12-10 21:57:43 INFO  Baseclass:25 - click product2 addtocart
+2024-12-10 21:57:43 INFO  Baseclass:27 - click product3 addtocart
+2024-12-10 21:57:45 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-10 21:57:45 INFO  Baseclass:33 - click seleniumRuby a
+2024-12-10 21:57:46 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 22:10:30 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 22:10:32 INFO  Baseclass:19 - click shopbutton
+2024-12-10 22:10:35 INFO  Baseclass:21 - click home button
+2024-12-10 22:10:37 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 22:10:59 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 22:11:01 INFO  Baseclass:19 - click shopbutton
+2024-12-10 22:11:02 INFO  Baseclass:21 - click home button
+2024-12-10 22:11:03 INFO  Baseclass:23 - click product1 addtocart
+2024-12-10 22:11:03 INFO  Baseclass:25 - click product2 addtocart
+2024-12-10 22:11:03 INFO  Baseclass:27 - click product3 addtocart
+2024-12-10 22:11:05 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-10 22:11:05 INFO  Baseclass:33 - click seleniumRuby a
+2024-12-10 22:11:06 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 22:15:42 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 22:15:45 INFO  Baseclass:19 - click shopbutton
+2024-12-10 22:15:48 INFO  Baseclass:21 - click home button
+2024-12-10 22:15:49 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-10 22:24:29 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-10 22:24:32 INFO  Baseclass:19 - click shopbutton
+2024-12-10 22:24:33 INFO  Baseclass:21 - click home button
+2024-12-10 22:24:34 INFO  Baseclass:23 - click product1 addtocart
+2024-12-10 22:24:34 INFO  Baseclass:25 - click product2 addtocart
+2024-12-10 22:24:34 INFO  Baseclass:27 - click product3 addtocart
+2024-12-10 22:24:34 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-11 08:44:51 INFO  Baseclass:62 - Opened application: https://practice.automationtesting.in/
+2024-12-11 08:44:52 INFO  Baseclass:19 - click shopbutton
+2024-12-11 08:44:54 INFO  Baseclass:21 - click home button
+2024-12-11 08:44:54 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 08:44:55 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 08:44:55 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 08:44:55 INFO  Baseclass:69 - Browser closed successfully.
+2024-12-11 08:46:44 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 08:46:46 INFO  Baseclass:19 - click shopbutton
+2024-12-11 08:46:48 INFO  Baseclass:21 - click home button
+2024-12-11 08:46:48 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 08:46:48 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 08:46:48 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 08:46:49 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 08:50:37 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 08:50:40 INFO  Baseclass:19 - click shopbutton
+2024-12-11 08:50:42 INFO  Baseclass:21 - click home button
+2024-12-11 08:50:42 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 08:50:43 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 08:50:43 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 08:51:09 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-11 08:51:09 INFO  Baseclass:33 - click seleniumRuby a
+2024-12-11 08:51:10 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 08:52:50 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 08:52:52 INFO  Baseclass:19 - click shopbutton
+2024-12-11 08:52:53 INFO  Baseclass:21 - click home button
+2024-12-11 08:52:54 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 08:52:54 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 08:52:54 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 08:52:55 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-11 08:52:55 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 08:57:38 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 08:57:40 INFO  Baseclass:19 - click shopbutton
+2024-12-11 08:57:41 INFO  Baseclass:21 - click home button
+2024-12-11 08:57:42 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 08:57:42 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 08:57:42 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 08:57:43 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-11 08:57:43 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 08:58:40 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 08:58:42 INFO  Baseclass:19 - click shopbutton
+2024-12-11 08:58:44 INFO  Baseclass:21 - click home button
+2024-12-11 08:58:44 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 08:58:44 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 08:58:44 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 08:58:45 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-11 08:58:46 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 08:59:21 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 08:59:23 INFO  Baseclass:19 - click shopbutton
+2024-12-11 08:59:24 INFO  Baseclass:21 - click home button
+2024-12-11 08:59:24 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 08:59:25 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 08:59:25 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 08:59:26 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-11 08:59:50 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 08:59:58 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:00:00 INFO  Baseclass:21 - click home button
+2024-12-11 09:00:00 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:00:01 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:00:01 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:00:03 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-11 09:00:03 INFO  Baseclass:33 - click seleniumRuby a
+2024-12-11 09:00:04 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:02:21 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:02:23 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:02:25 INFO  Baseclass:21 - click home button
+2024-12-11 09:02:25 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:02:25 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:02:26 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:02:27 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-11 09:02:27 INFO  Baseclass:33 - click seleniumRuby a
+2024-12-11 09:02:28 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:11:35 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:11:36 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:11:38 INFO  Baseclass:21 - click home button
+2024-12-11 09:11:38 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:11:38 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:11:38 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:11:39 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:16:11 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:16:13 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:16:15 INFO  Baseclass:21 - click home button
+2024-12-11 09:16:15 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:16:15 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:16:16 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:16:16 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:17:23 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:17:25 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:17:26 INFO  Baseclass:21 - click home button
+2024-12-11 09:17:27 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:17:27 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:17:27 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:17:28 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-11 09:17:38 INFO  Baseclass:33 - click seleniumRuby a
+2024-12-11 09:17:49 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:20:15 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:20:17 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:20:18 INFO  Baseclass:21 - click home button
+2024-12-11 09:20:19 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:20:19 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:20:19 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:20:19 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:21:05 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:21:07 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:21:09 INFO  Baseclass:21 - click home button
+2024-12-11 09:21:09 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:21:09 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:21:09 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:21:10 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:33:04 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:33:07 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:33:08 INFO  Baseclass:21 - click home button
+2024-12-11 09:33:08 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:33:09 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:33:09 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:33:10 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-11 09:33:20 INFO  Baseclass:33 - click seleniumRuby a
+2024-12-11 09:33:22 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:33:37 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:33:39 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:33:41 INFO  Baseclass:21 - click home button
+2024-12-11 09:33:41 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:33:41 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:33:41 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:33:42 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:34:13 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:34:15 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:34:16 INFO  Baseclass:21 - click home button
+2024-12-11 09:34:16 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:34:17 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:34:17 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:34:18 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-11 09:34:18 INFO  Baseclass:33 - click seleniumRuby a
+2024-12-11 09:34:19 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:38:09 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:38:11 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:38:12 INFO  Baseclass:21 - click home button
+2024-12-11 09:38:13 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:38:13 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:38:13 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:38:13 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:39:41 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:39:46 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:39:49 INFO  Baseclass:21 - click home button
+2024-12-11 09:39:49 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:39:49 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:39:49 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:39:50 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:40:29 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:40:34 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:40:36 INFO  Baseclass:21 - click home button
+2024-12-11 09:40:36 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:40:36 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:40:37 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:40:37 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:42:15 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:42:17 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:42:19 INFO  Baseclass:21 - click home button
+2024-12-11 09:42:19 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:42:20 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:42:20 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:42:21 INFO  Baseclass:29 - click shopcarticon addtocart
+2024-12-11 09:42:21 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:43:06 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:43:08 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:43:09 INFO  Baseclass:21 - click home button
+2024-12-11 09:43:09 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:43:10 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:43:10 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:43:10 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:45:04 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:45:06 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:45:08 INFO  Baseclass:21 - click home button
+2024-12-11 09:45:08 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:45:08 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:45:08 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:45:11 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 09:45:12 INFO  Baseclass:34 - click seleniumRuby a
+2024-12-11 09:45:13 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:45:32 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:45:34 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:45:35 INFO  Baseclass:21 - click home button
+2024-12-11 09:45:35 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:45:35 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:45:36 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:45:39 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 09:45:39 INFO  Baseclass:34 - click seleniumRuby a
+2024-12-11 09:45:40 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:47:20 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:47:23 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:47:24 INFO  Baseclass:21 - click home button
+2024-12-11 09:47:24 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:47:24 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:47:25 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:47:28 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 09:47:52 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:47:54 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:47:55 INFO  Baseclass:21 - click home button
+2024-12-11 09:47:55 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 09:47:56 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 09:47:56 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 09:47:59 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 09:48:49 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:48:51 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:48:52 INFO  Baseclass:21 - click home button
+2024-12-11 09:48:55 INFO  Baseclass:24 - click product1 addtocart
+2024-12-11 09:48:55 INFO  Baseclass:26 - click product2 addtocart
+2024-12-11 09:48:55 INFO  Baseclass:28 - click product3 addtocart
+2024-12-11 09:48:59 INFO  Baseclass:31 - click shopcarticon addtocart
+2024-12-11 09:49:02 INFO  Baseclass:37 - click seleniumRuby a
+2024-12-11 09:49:03 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:50:52 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:50:54 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:50:56 INFO  Baseclass:21 - click home button
+2024-12-11 09:50:59 INFO  Baseclass:24 - click product1 addtocart
+2024-12-11 09:50:59 INFO  Baseclass:26 - click product2 addtocart
+2024-12-11 09:50:59 INFO  Baseclass:28 - click product3 addtocart
+2024-12-11 09:51:03 INFO  Baseclass:31 - click shopcarticon addtocart
+2024-12-11 09:51:20 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:51:23 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:51:24 INFO  Baseclass:21 - click home button
+2024-12-11 09:51:28 INFO  Baseclass:24 - click product1 addtocart
+2024-12-11 09:51:28 INFO  Baseclass:26 - click product2 addtocart
+2024-12-11 09:51:28 INFO  Baseclass:28 - click product3 addtocart
+2024-12-11 09:51:31 INFO  Baseclass:31 - click shopcarticon addtocart
+2024-12-11 09:51:34 INFO  Baseclass:37 - click seleniumRuby a
+2024-12-11 09:51:35 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:56:39 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:56:41 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:56:43 INFO  Baseclass:21 - click home button
+2024-12-11 09:56:46 INFO  Baseclass:24 - click product1 addtocart
+2024-12-11 09:56:46 INFO  Baseclass:26 - click product2 addtocart
+2024-12-11 09:56:46 INFO  Baseclass:28 - click product3 addtocart
+2024-12-11 09:56:50 INFO  Baseclass:31 - click shopcarticon addtocart
+2024-12-11 09:56:53 INFO  Baseclass:37 - click seleniumRuby a
+2024-12-11 09:56:54 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 09:59:25 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 09:59:28 INFO  Baseclass:19 - click shopbutton
+2024-12-11 09:59:30 INFO  Baseclass:21 - click home button
+2024-12-11 09:59:33 INFO  Baseclass:24 - click product1 addtocart
+2024-12-11 09:59:33 INFO  Baseclass:26 - click product2 addtocart
+2024-12-11 09:59:33 INFO  Baseclass:28 - click product3 addtocart
+2024-12-11 09:59:36 INFO  Baseclass:31 - click shopcarticon addtocart
+2024-12-11 09:59:40 INFO  Baseclass:37 - click seleniumRuby a
+2024-12-11 09:59:41 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 10:01:29 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:01:32 INFO  Baseclass:19 - click shopbutton
+2024-12-11 10:01:34 INFO  Baseclass:21 - click home button
+2024-12-11 10:01:38 INFO  Baseclass:24 - click product1 addtocart
+2024-12-11 10:01:38 INFO  Baseclass:26 - click product2 addtocart
+2024-12-11 10:01:38 INFO  Baseclass:28 - click product3 addtocart
+2024-12-11 10:01:42 INFO  Baseclass:31 - click shopcarticon addtocart
+2024-12-11 10:01:56 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:01:59 INFO  Baseclass:19 - click shopbutton
+2024-12-11 10:02:00 INFO  Baseclass:21 - click home button
+2024-12-11 10:02:03 INFO  Baseclass:24 - click product1 addtocart
+2024-12-11 10:02:04 INFO  Baseclass:26 - click product2 addtocart
+2024-12-11 10:02:04 INFO  Baseclass:28 - click product3 addtocart
+2024-12-11 10:02:07 INFO  Baseclass:31 - click shopcarticon addtocart
+2024-12-11 10:02:35 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:02:37 INFO  Baseclass:19 - click shopbutton
+2024-12-11 10:02:38 INFO  Baseclass:21 - click home button
+2024-12-11 10:02:41 INFO  Baseclass:24 - click product1 addtocart
+2024-12-11 10:02:41 INFO  Baseclass:26 - click product2 addtocart
+2024-12-11 10:02:41 INFO  Baseclass:28 - click product3 addtocart
+2024-12-11 10:02:45 INFO  Baseclass:31 - click shopcarticon addtocart
+2024-12-11 10:03:15 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:03:18 INFO  Baseclass:19 - click shopbutton
+2024-12-11 10:03:19 INFO  Baseclass:21 - click home button
+2024-12-11 10:03:19 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 10:03:19 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 10:03:20 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 10:03:23 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 10:03:26 INFO  Baseclass:36 - click seleniumRuby a
+2024-12-11 10:03:27 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 10:03:58 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:04:00 INFO  Baseclass:19 - click shopbutton
+2024-12-11 10:04:02 INFO  Baseclass:21 - click home button
+2024-12-11 10:04:02 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 10:04:02 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 10:04:02 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 10:04:05 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 10:04:24 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:04:26 INFO  Baseclass:19 - click shopbutton
+2024-12-11 10:04:28 INFO  Baseclass:21 - click home button
+2024-12-11 10:04:28 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 10:04:28 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 10:04:28 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 10:04:31 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 10:04:37 INFO  Baseclass:36 - click seleniumRuby a
+2024-12-11 10:04:45 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 10:05:01 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:05:05 INFO  Baseclass:19 - click shopbutton
+2024-12-11 10:05:06 INFO  Baseclass:21 - click home button
+2024-12-11 10:05:07 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 10:05:07 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 10:05:07 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 10:05:11 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 10:05:43 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:05:45 INFO  Baseclass:19 - click shopbutton
+2024-12-11 10:05:47 INFO  Baseclass:21 - click home button
+2024-12-11 10:05:47 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 10:05:47 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 10:05:47 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 10:05:50 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 10:05:53 INFO  Baseclass:36 - click seleniumRuby a
+2024-12-11 10:06:00 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 10:08:10 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:08:12 INFO  Baseclass:19 - click shopbutton
+2024-12-11 10:08:13 INFO  Baseclass:21 - click home button
+2024-12-11 10:08:14 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 10:08:14 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 10:08:14 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 10:08:17 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 10:08:22 INFO  Baseclass:34 - seleniumRuby added to cart
+2024-12-11 10:08:23 INFO  Baseclass:37 - Thinking in HTML added to cart
+2024-12-11 10:08:24 INFO  Baseclass:40 - Mastering JavaScript added to cart
+2024-12-11 10:08:31 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 10:41:43 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:41:46 INFO  Baseclass:19 - click shopbutton
+2024-12-11 10:41:47 INFO  Baseclass:21 - click home button
+2024-12-11 10:41:47 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 10:41:47 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 10:41:47 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 10:41:51 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 10:41:56 INFO  Baseclass:34 - seleniumRuby added to cart
+2024-12-11 10:41:57 INFO  Baseclass:37 - Thinking in HTML added to cart
+2024-12-11 10:41:59 INFO  Baseclass:40 - Mastering JavaScript added to cart
+2024-12-11 10:42:06 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 10:43:09 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:43:10 INFO  Baseclass:22 - Clicked on 'My Account'
+2024-12-11 10:43:11 INFO  Baseclass:27 - Entered email: mallikarjundalal409@gmail.com
+2024-12-11 10:43:11 INFO  Baseclass:29 - Entered password
+2024-12-11 10:43:12 INFO  Baseclass:33 - Clicked on 'Register' button
+2024-12-11 10:43:12 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 10:43:14 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:43:17 INFO  Baseclass:83 - Data loaded successfully from Excel
+2024-12-11 10:43:21 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 10:43:22 INFO  Baseclass:30 - Entered Username: mng605786
+2024-12-11 10:43:22 INFO  Baseclass:33 - Entered Password
+2024-12-11 10:43:22 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 10:43:26 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 10:43:27 INFO  Baseclass:30 - Entered Username: mngr6017
+2024-12-11 10:43:27 INFO  Baseclass:33 - Entered Password
+2024-12-11 10:43:27 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 10:43:43 ERROR Baseclass:52 - Login failed for user: mngr6017
+2024-12-11 10:43:44 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 10:43:44 INFO  Baseclass:30 - Entered Username: mallikarjundalal409@gmail.com
+2024-12-11 10:43:45 INFO  Baseclass:33 - Entered Password
+2024-12-11 10:43:45 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 10:43:47 INFO  Baseclass:43 - Login successful for user: mallikarjundalal409@gmail.com
+2024-12-11 10:43:49 INFO  Baseclass:47 - Logged out successfully for user: mallikarjundalal409@gmail.com
+2024-12-11 10:43:50 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 10:43:50 INFO  Baseclass:30 - Entered Username: 
+2024-12-11 10:43:50 INFO  Baseclass:33 - Entered Password
+2024-12-11 10:43:50 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 10:44:02 ERROR Baseclass:52 - Login failed for user: 
+2024-12-11 10:44:03 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 10:44:03 INFO  Baseclass:30 - Entered Username: 
+2024-12-11 10:44:03 INFO  Baseclass:33 - Entered Password
+2024-12-11 10:44:03 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 10:44:14 ERROR Baseclass:52 - Login failed for user: 
+2024-12-11 10:44:15 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 10:44:19 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:44:21 INFO  Baseclass:19 - click shopbutton
+2024-12-11 10:44:22 INFO  Baseclass:21 - click home button
+2024-12-11 10:44:22 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 10:44:23 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 10:44:23 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 10:44:26 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 10:44:50 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 10:45:27 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:45:29 INFO  Baseclass:22 - Clicked on 'My Account'
+2024-12-11 10:45:29 INFO  Baseclass:27 - Entered email: mallikarjundalal409@gmail.com
+2024-12-11 10:45:29 INFO  Baseclass:29 - Entered password
+2024-12-11 10:45:31 INFO  Baseclass:33 - Clicked on 'Register' button
+2024-12-11 10:45:31 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 10:45:33 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:45:35 INFO  Baseclass:83 - Data loaded successfully from Excel
+2024-12-11 10:46:22 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:46:23 INFO  Baseclass:22 - Clicked on 'My Account'
+2024-12-11 10:46:24 INFO  Baseclass:27 - Entered email: mallikarjundalal409@gmail.com
+2024-12-11 10:46:24 INFO  Baseclass:29 - Entered password
+2024-12-11 10:46:25 INFO  Baseclass:33 - Clicked on 'Register' button
+2024-12-11 10:46:25 INFO  Baseclass:38 - Validated registration error message
+2024-12-11 10:46:27 INFO  Baseclass:42 - Clicked on 'Login' button
+2024-12-11 10:46:27 INFO  Baseclass:45 - Validated username missing error message
+2024-12-11 10:46:28 INFO  Baseclass:50 - Clicked on 'Login' button after entering username
+2024-12-11 10:46:28 INFO  Baseclass:53 - Validated password missing error message
+2024-12-11 10:46:28 INFO  Baseclass:57 - Entered password
+2024-12-11 10:46:29 INFO  Baseclass:59 - Clicked on 'Login' button
+2024-12-11 10:46:30 INFO  Baseclass:79 - Screenshot captured for test: TC_TestCases_001
+2024-12-11 10:46:30 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 10:46:35 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:46:36 INFO  Baseclass:83 - Data loaded successfully from Excel
+2024-12-11 10:46:38 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 10:46:38 INFO  Baseclass:30 - Entered Username: mng605786
+2024-12-11 10:46:38 INFO  Baseclass:33 - Entered Password
+2024-12-11 10:46:38 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 10:46:50 ERROR Baseclass:52 - Login failed for user: mng605786
+2024-12-11 10:46:51 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 10:46:51 INFO  Baseclass:30 - Entered Username: mngr6017
+2024-12-11 10:46:51 INFO  Baseclass:33 - Entered Password
+2024-12-11 10:46:51 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 10:47:04 ERROR Baseclass:52 - Login failed for user: mngr6017
+2024-12-11 10:47:05 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 10:47:05 INFO  Baseclass:30 - Entered Username: mallikarjundalal409@gmail.com
+2024-12-11 10:47:05 INFO  Baseclass:33 - Entered Password
+2024-12-11 10:47:05 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 10:47:07 INFO  Baseclass:43 - Login successful for user: mallikarjundalal409@gmail.com
+2024-12-11 10:47:08 INFO  Baseclass:47 - Logged out successfully for user: mallikarjundalal409@gmail.com
+2024-12-11 10:47:09 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 10:47:09 INFO  Baseclass:30 - Entered Username: 
+2024-12-11 10:47:09 INFO  Baseclass:33 - Entered Password
+2024-12-11 10:47:09 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 10:47:21 ERROR Baseclass:52 - Login failed for user: 
+2024-12-11 10:47:22 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 10:47:22 INFO  Baseclass:30 - Entered Username: 
+2024-12-11 10:47:22 INFO  Baseclass:33 - Entered Password
+2024-12-11 10:47:22 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 10:47:33 ERROR Baseclass:52 - Login failed for user: 
+2024-12-11 10:47:33 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 10:47:38 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 10:47:40 INFO  Baseclass:19 - click shopbutton
+2024-12-11 10:47:42 INFO  Baseclass:21 - click home button
+2024-12-11 10:47:42 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 10:47:42 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 10:47:42 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 10:47:45 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 10:47:49 INFO  Baseclass:34 - seleniumRuby added to cart
+2024-12-11 10:47:51 INFO  Baseclass:37 - Thinking in HTML added to cart
+2024-12-11 10:47:52 INFO  Baseclass:40 - Mastering JavaScript added to cart
+2024-12-11 10:47:59 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 11:41:00 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 11:41:01 INFO  Baseclass:22 - Clicked on 'My Account'
+2024-12-11 11:41:02 INFO  Baseclass:27 - Entered email: mallikarjundalal409@gmail.com
+2024-12-11 11:41:02 INFO  Baseclass:29 - Entered password
+2024-12-11 11:41:03 INFO  Baseclass:33 - Clicked on 'Register' button
+2024-12-11 11:41:03 INFO  Baseclass:38 - Validated registration error message
+2024-12-11 11:41:05 INFO  Baseclass:42 - Clicked on 'Login' button
+2024-12-11 11:41:05 INFO  Baseclass:45 - Validated username missing error message
+2024-12-11 11:41:06 INFO  Baseclass:50 - Clicked on 'Login' button after entering username
+2024-12-11 11:41:06 INFO  Baseclass:53 - Validated password missing error message
+2024-12-11 11:41:07 INFO  Baseclass:57 - Entered password
+2024-12-11 11:41:08 INFO  Baseclass:59 - Clicked on 'Login' button
+2024-12-11 11:41:08 INFO  Baseclass:79 - Screenshot captured for test: TC_TestCases_001
+2024-12-11 11:41:09 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 11:41:13 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 11:41:15 INFO  Baseclass:83 - Data loaded successfully from Excel
+2024-12-11 11:41:16 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 11:41:16 INFO  Baseclass:30 - Entered Username: mng605786
+2024-12-11 11:41:17 INFO  Baseclass:33 - Entered Password
+2024-12-11 11:41:17 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 11:41:28 ERROR Baseclass:52 - Login failed for user: mng605786
+2024-12-11 11:41:29 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 11:41:30 INFO  Baseclass:30 - Entered Username: mngr6017
+2024-12-11 11:41:30 INFO  Baseclass:33 - Entered Password
+2024-12-11 11:41:30 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 11:41:41 ERROR Baseclass:52 - Login failed for user: mngr6017
+2024-12-11 11:41:43 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 11:41:43 INFO  Baseclass:30 - Entered Username: mallikarjundalal409@gmail.com
+2024-12-11 11:41:44 INFO  Baseclass:33 - Entered Password
+2024-12-11 11:41:44 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 11:41:46 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 11:41:46 INFO  Baseclass:30 - Entered Username: 
+2024-12-11 11:41:46 INFO  Baseclass:33 - Entered Password
+2024-12-11 11:41:46 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 11:41:58 ERROR Baseclass:52 - Login failed for user: 
+2024-12-11 11:42:01 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 11:42:01 INFO  Baseclass:30 - Entered Username: 
+2024-12-11 11:42:01 INFO  Baseclass:33 - Entered Password
+2024-12-11 11:42:01 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 11:42:12 ERROR Baseclass:52 - Login failed for user: 
+2024-12-11 11:42:13 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 11:42:17 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 11:42:20 INFO  Baseclass:19 - click shopbutton
+2024-12-11 11:42:21 INFO  Baseclass:21 - click home button
+2024-12-11 11:42:22 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 11:42:22 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 11:42:22 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 11:42:25 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 11:42:29 INFO  Baseclass:34 - seleniumRuby added to cart
+2024-12-11 11:42:51 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 11:44:40 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 11:44:41 INFO  Baseclass:22 - Clicked on 'My Account'
+2024-12-11 11:44:41 INFO  Baseclass:27 - Entered email: mallikarjundalal409@gmail.com
+2024-12-11 11:44:41 INFO  Baseclass:29 - Entered password
+2024-12-11 11:44:42 INFO  Baseclass:33 - Clicked on 'Register' button
+2024-12-11 11:44:43 INFO  Baseclass:38 - Validated registration error message
+2024-12-11 11:44:44 INFO  Baseclass:42 - Clicked on 'Login' button
+2024-12-11 11:44:44 INFO  Baseclass:45 - Validated username missing error message
+2024-12-11 11:44:45 INFO  Baseclass:50 - Clicked on 'Login' button after entering username
+2024-12-11 11:44:45 INFO  Baseclass:53 - Validated password missing error message
+2024-12-11 11:44:45 INFO  Baseclass:57 - Entered password
+2024-12-11 11:44:48 INFO  Baseclass:59 - Clicked on 'Login' button
+2024-12-11 11:44:49 INFO  Baseclass:79 - Screenshot captured for test: TC_TestCases_001
+2024-12-11 11:44:49 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 11:44:53 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 11:44:55 INFO  Baseclass:83 - Data loaded successfully from Excel
+2024-12-11 11:44:57 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 11:44:58 INFO  Baseclass:30 - Entered Username: mng605786
+2024-12-11 11:44:58 INFO  Baseclass:33 - Entered Password
+2024-12-11 11:44:58 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 11:45:00 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 11:45:00 INFO  Baseclass:30 - Entered Username: mngr6017
+2024-12-11 11:45:00 INFO  Baseclass:33 - Entered Password
+2024-12-11 11:45:00 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 11:45:12 ERROR Baseclass:52 - Login failed for user: mngr6017
+2024-12-11 11:45:14 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 11:45:14 INFO  Baseclass:30 - Entered Username: mallikarjundalal409@gmail.com
+2024-12-11 11:45:14 INFO  Baseclass:33 - Entered Password
+2024-12-11 11:45:14 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 11:45:15 INFO  Baseclass:43 - Login successful for user: mallikarjundalal409@gmail.com
+2024-12-11 11:45:17 INFO  Baseclass:47 - Logged out successfully for user: mallikarjundalal409@gmail.com
+2024-12-11 11:45:18 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 11:45:18 INFO  Baseclass:30 - Entered Username: 
+2024-12-11 11:45:18 INFO  Baseclass:33 - Entered Password
+2024-12-11 11:45:18 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 11:45:29 ERROR Baseclass:52 - Login failed for user: 
+2024-12-11 11:45:31 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-11 11:45:31 INFO  Baseclass:30 - Entered Username: 
+2024-12-11 11:45:31 INFO  Baseclass:33 - Entered Password
+2024-12-11 11:45:31 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-11 11:45:42 ERROR Baseclass:52 - Login failed for user: 
+2024-12-11 11:45:42 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 11:45:47 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 11:45:49 INFO  Baseclass:19 - click shopbutton
+2024-12-11 11:45:51 INFO  Baseclass:21 - click home button
+2024-12-11 11:45:51 INFO  Baseclass:23 - click product1 addtocart
+2024-12-11 11:45:51 INFO  Baseclass:25 - click product2 addtocart
+2024-12-11 11:45:51 INFO  Baseclass:27 - click product3 addtocart
+2024-12-11 11:45:55 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-11 11:45:59 INFO  Baseclass:34 - seleniumRuby added to cart
+2024-12-11 11:46:21 INFO  Baseclass:70 - Browser closed successfully.
