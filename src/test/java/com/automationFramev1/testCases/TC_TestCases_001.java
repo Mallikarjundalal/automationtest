@@ -1,6 +1,7 @@
 package com.automationFramev1.testCases;
 
 import java.io.IOException;
+import java.net.SocketException;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -12,11 +13,13 @@ import com.automationFramev1.pageObjects.Registerpage;
 
 public class TC_TestCases_001 extends Baseclass {
 
-    @Test
-    public void testUserRegistration() throws IOException {
+    @Test(priority=1)
+    public void testUserRegistration() throws IOException, InterruptedException {
         // Initialize page object
         Registerpage registerPage = new Registerpage(driver);
-
+        try {
+            // Attempt connection
+         
         // Step 1: Navigate to My Account
         registerPage.myAccount.click();
         logger.info("Clicked on 'My Account'");
@@ -32,9 +35,9 @@ public class TC_TestCases_001 extends Baseclass {
         registerPage.clickRegisterButton();
         logger.info("Clicked on 'Register' button");
 
-        // Step 4: Validate registration error message
-        String registrationError = getErrorMessage();
-        Assert.assertEquals(registrationError, "Error: An account is already registered with your email address. Please login.");
+      //  Step 4: Validate registration error message
+       String registrationError = getErrorMessage();
+       Assert.assertEquals(registrationError, "Error: An account is already registered with your email address. Please login.");
         logger.info("Validated registration error message");
 
         // Step 5: Login validation - missing username
@@ -60,7 +63,12 @@ public class TC_TestCases_001 extends Baseclass {
 
         // Capture screenshot after completing the test
         captureScreen(driver, "TC_TestCases_001");
+         // Exit loop if successful
+        } catch (SocketException e) {
+            Thread.sleep(2000); // Wait before retrying
+        }
     }
+
 
     // Helper method to fetch error message
     private String getErrorMessage() {
@@ -68,3 +76,4 @@ public class TC_TestCases_001 extends Baseclass {
         return errorElement.getText();
     }
 }
+

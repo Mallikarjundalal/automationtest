@@ -9,8 +9,10 @@
         <classes>
             <!--<class name="com.automationFramev1.testCases.Baseclass"/>--> 
             <class name="com.automationFramev1.testCases.TC_TestCases_001"/>
-              <class name="com.automationFramev1.testCases.TC_TestCases_002" />
-             <class name="com.automationFramev1.testCases.TC_TestCases_003" />
+             <class name="com.automationFramev1.testCases.TC_TestCases_002"/>
+             <class name="com.automationFramev1.testCases.TC_TestCases_003"/>
+              <class name="com.automationFramev1.testCases.TC_Homepagethreearrivals_004"/>
+            <class name="com.automationFramev1.testCases.TC_imagearrivals_005"/>
         </classes>
     </test>
 </suite>

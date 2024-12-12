@@ -44,14 +44,16 @@ public class HomePage extends Baseclass {
 	
 	private static final String productName = "//tr[td[@class='product-name']/a[contains(text(), '##FIELD_VALUE##')]]//input[@type='number']";
 	
-	public void clickclearsendkeys(String element, String value) throws InterruptedException {
+	public void clickclearsendkeys(String element, int value) throws InterruptedException {
 		driver.navigate().refresh();
 		String productNameLocator = productName.replaceAll("##FIELD_VALUE##", element);
 		for (int i = 0; i < 3; i++) { 
 	        try {
+	        	
 		WebElement productNameElements = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(productNameLocator)));
 		productNameElements.clear();
-		productNameElements.sendKeys(value +Keys.ENTER);
+		productNameElements.sendKeys(String.valueOf(value)+ Keys.ENTER);
+		
 		break;
 	        }
 	        catch (org.openqa.selenium.StaleElementReferenceException e) {

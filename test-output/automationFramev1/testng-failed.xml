@@ -7,25 +7,11 @@
   <test thread-count="5" name="automationFramev1(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.automationFramev1.testCases.TC_TestCases_003">
-        <methods>
-          <include name="tearDown"/>
-          <include name="homePageTest"/>
-          <include name="initializeDriver"/>
-        </methods>
-      </class> <!-- com.automationFramev1.testCases.TC_TestCases_003 -->
-      <class name="com.automationFramev1.testCases.TC_TestCases_001">
-        <methods>
-          <include name="tearDown"/>
-          <include name="initializeDriver"/>
-          <include name="testUserRegistration"/>
-        </methods>
-      </class> <!-- com.automationFramev1.testCases.TC_TestCases_001 -->
       <class name="com.automationFramev1.testCases.TC_TestCases_002">
         <methods>
           <include name="tearDown"/>
           <include name="initializeDriver"/>
-          <include name="loginData" invocation-numbers="0"/>
+          <include name="loginData" invocation-numbers="3"/>
         </methods>
       </class> <!-- com.automationFramev1.testCases.TC_TestCases_002 -->
     </classes>

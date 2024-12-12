@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="5" failed="2" skipped="0">
+<testng-results ignored="0" total="9" passed="8" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-11T11:44:33 IST" name="automationFramev1" finished-at="2024-12-11T11:46:21 IST" duration-ms="108291">
+  <suite started-at="2024-12-12T10:25:37 IST" name="automationFramev1" finished-at="2024-12-12T10:28:01 IST" duration-ms="144438">
     <groups>
     </groups>
-    <test started-at="2024-12-11T11:44:33 IST" name="automationFramev1" finished-at="2024-12-11T11:46:21 IST" duration-ms="108291">
-      <class name="com.automationFramev1.testCases.TC_TestCases_003">
-        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_003@d86a6f]" started-at="2024-12-11T11:45:42 IST" name="initializeDriver" finished-at="2024-12-11T11:45:47 IST" duration-ms="4651" status="PASS">
+    <test started-at="2024-12-12T10:25:37 IST" name="automationFramev1" finished-at="2024-12-12T10:28:01 IST" duration-ms="144438">
+      <class name="com.automationFramev1.testCases.TC_imagearrivals_005">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_imagearrivals_005@2e385cce]" started-at="2024-12-12T10:27:50 IST" name="initializeDriver" finished-at="2024-12-12T10:27:54 IST" duration-ms="3916" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,72 +18,59 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriver -->
-        <test-method signature="homePageTest()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_003@d86a6f]" started-at="2024-12-11T11:45:47 IST" name="homePageTest" finished-at="2024-12-11T11:46:21 IST" duration-ms="33908" status="FAIL">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //tr[td[@class='product-name']/a[contains(text(), 'Thinking in HTML')]]//input[@type='number'] (tried for 20 second(s) with 500 milliseconds interval)
-Build info: version: '4.13.0', revision: 'ba948ece5b*'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.109, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57495/devtoo..., se:cdpVersion: 131.0.6778.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: bb3164bbf898991d5936c4b4f6e1c8a6]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tr[td[@class='product-name']/a[contains(text(), 'Thinking in HTML')]]//input[@type='number'] (tried for 20 second(s) with 500 milliseconds interval)
-Build info: version: '4.13.0', revision: 'ba948ece5b*'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.109, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57495/devtoo..., se:cdpVersion: 131.0.6778.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: bb3164bbf898991d5936c4b4f6e1c8a6
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
-at com.automationFramev1.pageObjects.HomePage.clickclearsendkeys(HomePage.java:52)
-at com.automationFramev1.testCases.TC_TestCases_003.homePageTest(TC_TestCases_003.java:36)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:829)
-at org.testng.TestRunner.run(TestRunner.java:602)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
-at org.testng.SuiteRunner.run(SuiteRunner.java:330)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
-at org.testng.TestNG.runSuites(TestNG.java:1099)
-at org.testng.TestNG.run(TestNG.java:1067)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
-at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+        <test-method signature="imagearrivals()[pri:0, instance:com.automationFramev1.testCases.TC_imagearrivals_005@2e385cce]" started-at="2024-12-12T10:27:54 IST" name="imagearrivals" finished-at="2024-12-12T10:28:01 IST" duration-ms="6836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imagearrivals -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_imagearrivals_005@2e385cce]" started-at="2024-12-12T10:28:01 IST" name="tearDown" finished-at="2024-12-12T10:28:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationFramev1.testCases.TC_imagearrivals_005 -->
+      <class name="com.automationFramev1.testCases.TC_Homepagethreearrivals_004">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_Homepagethreearrivals_004@3e27aa33]" started-at="2024-12-12T10:27:39 IST" name="initializeDriver" finished-at="2024-12-12T10:27:45 IST" duration-ms="5844" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="Homepagethreearrivals()[pri:0, instance:com.automationFramev1.testCases.TC_Homepagethreearrivals_004@3e27aa33]" started-at="2024-12-12T10:27:45 IST" name="Homepagethreearrivals" finished-at="2024-12-12T10:27:50 IST" duration-ms="5129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepagethreearrivals -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_Homepagethreearrivals_004@3e27aa33]" started-at="2024-12-12T10:27:50 IST" name="tearDown" finished-at="2024-12-12T10:27:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationFramev1.testCases.TC_Homepagethreearrivals_004 -->
+      <class name="com.automationFramev1.testCases.TC_TestCases_003">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_003@750e2b97]" started-at="2024-12-12T10:27:06 IST" name="initializeDriver" finished-at="2024-12-12T10:27:18 IST" duration-ms="11205" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="homePageTest()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_003@750e2b97]" started-at="2024-12-12T10:27:18 IST" name="homePageTest" finished-at="2024-12-12T10:27:39 IST" duration-ms="21435" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homePageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_003@d86a6f]" started-at="2024-12-11T11:46:21 IST" name="tearDown" finished-at="2024-12-11T11:46:21 IST" duration-ms="373" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_003@750e2b97]" started-at="2024-12-12T10:27:39 IST" name="tearDown" finished-at="2024-12-12T10:27:39 IST" duration-ms="371" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.automationFramev1.testCases.TC_TestCases_003 -->
       <class name="com.automationFramev1.testCases.TC_TestCases_002">
-        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@4145bad8]" started-at="2024-12-11T11:44:49 IST" name="initializeDriver" finished-at="2024-12-11T11:44:53 IST" duration-ms="4316" status="PASS">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@3646a422]" started-at="2024-12-12T10:25:49 IST" name="initializeDriver" finished-at="2024-12-12T10:25:55 IST" duration-ms="5824" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -94,7 +81,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriver -->
-        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@4145bad8]" started-at="2024-12-11T11:44:55 IST" name="loginData" data-provider="getdata" finished-at="2024-12-11T11:44:59 IST" duration-ms="4126" status="FAIL">
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@3646a422]" started-at="2024-12-12T10:25:56 IST" name="loginData" data-provider="getdata" finished-at="2024-12-12T10:26:11 IST" duration-ms="14437" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -107,28 +94,113 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
               </value>
             </param>
           </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginData -->
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@3646a422]" started-at="2024-12-12T10:26:11 IST" name="loginData" data-provider="getdata" finished-at="2024-12-12T10:26:24 IST" duration-ms="13154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr6017]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UsyvAde]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginData -->
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@3646a422]" started-at="2024-12-12T10:26:24 IST" name="loginData" data-provider="getdata" finished-at="2024-12-12T10:26:36 IST" duration-ms="11922" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mallikarjundalal409@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arjun@9738522340]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginData -->
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@3646a422]" started-at="2024-12-12T10:26:36 IST" name="loginData" data-provider="getdata" finished-at="2024-12-12T10:26:53 IST" duration-ms="16877" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginData -->
+        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@3646a422]" started-at="2024-12-12T10:26:53 IST" name="loginData" data-provider="getdata" finished-at="2024-12-12T10:27:06 IST" duration-ms="13212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@3646a422]" started-at="2024-12-12T10:27:06 IST" name="tearDown" finished-at="2024-12-12T10:27:06 IST" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationFramev1.testCases.TC_TestCases_002 -->
+      <class name="com.automationFramev1.testCases.TC_TestCases_001">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@55a147cc]" started-at="2024-12-12T10:25:37 IST" name="initializeDriver" finished-at="2024-12-12T10:25:44 IST" duration-ms="7345" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="testUserRegistration()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@55a147cc]" started-at="2024-12-12T10:25:44 IST" name="testUserRegistration" finished-at="2024-12-12T10:25:48 IST" duration-ms="3939" status="FAIL">
           <exception class="org.openqa.selenium.ElementClickInterceptedException">
             <message>
-              <![CDATA[element click intercepted: Element <input type="submit" class="woocommerce-Button button" name="login" value="Login"> is not clickable at point (89, 428). Other element would receive the click: <iframe id="aswift_5" name="aswift_5" browsingtopics="true" style="width: 1005px !important; height: 124px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1005" height="124" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20241209/r20190131/zrt_lookup_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-9173866185064071&amp;fa=1&amp;ifi=6&amp;uci=a!6&amp;btvi=5" data-google-container-id="a!6" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CPDsjOiGn4oDFRSn2AUdxVwBDg" data-load-complete="true"></iframe>
+              <![CDATA[element click intercepted: Element <input type="submit" class="woocommerce-Button button" name="register" value="Register"> is not clickable at point (640, 419). Other element would receive the click: <iframe id="aswift_5" name="aswift_5" browsingtopics="true" style="width: 728px !important; height: 90px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20241210/r20190131/zrt_lookup_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-9173866185064071&amp;fa=1&amp;ifi=6&amp;uci=a!6&amp;btvi=5" data-google-container-id="a!6" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="COOIov22oYoDFVCJrAId-Ogrmg" data-load-complete="true"></iframe>
   (Session info: chrome=131.0.6778.109)
 Build info: version: '4.13.0', revision: 'ba948ece5b*'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [c433d1ae769e662e42660e0e38ff6646, clickElement {id=f.194C7272DEC07729AFF5DE1784CBB339.d.09B9FB65DDDD904ACDFC87EDF0E53C81.e.40}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.109, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57381}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57381/devtoo..., se:cdpVersion: 131.0.6778.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (c433d1ae769e662e42660e0e38ff6646)] -> xpath: //input[@name='login']]
-Session ID: c433d1ae769e662e42660e0e38ff6646]]>
+Command: [6310fcd5d07275f46db26771ff292e0c, clickElement {id=f.33898C7325DDEE3B694EF7A91C2A6A11.d.AA424B8A65DD672D343E66BCA1FDF5D4.e.44}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.109, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60184}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60184/devtoo..., se:cdpVersion: 131.0.6778.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (6310fcd5d07275f46db26771ff292e0c)] -> xpath: //input[@name='register']]
+Session ID: 6310fcd5d07275f46db26771ff292e0c]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="submit" class="woocommerce-Button button" name="login" value="Login"> is not clickable at point (89, 428). Other element would receive the click: <iframe id="aswift_5" name="aswift_5" browsingtopics="true" style="width: 1005px !important; height: 124px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1005" height="124" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20241209/r20190131/zrt_lookup_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-9173866185064071&amp;fa=1&amp;ifi=6&amp;uci=a!6&amp;btvi=5" data-google-container-id="a!6" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CPDsjOiGn4oDFRSn2AUdxVwBDg" data-load-complete="true"></iframe>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="submit" class="woocommerce-Button button" name="register" value="Register"> is not clickable at point (640, 419). Other element would receive the click: <iframe id="aswift_5" name="aswift_5" browsingtopics="true" style="width: 728px !important; height: 90px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20241210/r20190131/zrt_lookup_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-9173866185064071&amp;fa=1&amp;ifi=6&amp;uci=a!6&amp;btvi=5" data-google-container-id="a!6" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="COOIov22oYoDFVCJrAId-Ogrmg" data-load-complete="true"></iframe>
   (Session info: chrome=131.0.6778.109)
 Build info: version: '4.13.0', revision: 'ba948ece5b*'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [c433d1ae769e662e42660e0e38ff6646, clickElement {id=f.194C7272DEC07729AFF5DE1784CBB339.d.09B9FB65DDDD904ACDFC87EDF0E53C81.e.40}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.109, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57381}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57381/devtoo..., se:cdpVersion: 131.0.6778.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (c433d1ae769e662e42660e0e38ff6646)] -> xpath: //input[@name='login']]
-Session ID: c433d1ae769e662e42660e0e38ff6646
+Command: [6310fcd5d07275f46db26771ff292e0c, clickElement {id=f.33898C7325DDEE3B694EF7A91C2A6A11.d.AA424B8A65DD672D343E66BCA1FDF5D4.e.44}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.109, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60184}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60184/devtoo..., se:cdpVersion: 131.0.6778.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (6310fcd5d07275f46db26771ff292e0c)] -> xpath: //input[@name='register']]
+Session ID: 6310fcd5d07275f46db26771ff292e0c
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -149,7 +221,8 @@ at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Delegating
 at java.base/java.lang.reflect.Method.invoke(Method.java:568)
 at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
 at jdk.proxy2/jdk.proxy2.$Proxy19.click(Unknown Source)
-at com.automationFramev1.testCases.TC_TestCases_002.loginData(TC_TestCases_002.java:36)
+at com.automationFramev1.pageObjects.Registerpage.clickRegisterButton(Registerpage.java:67)
+at com.automationFramev1.testCases.TC_TestCases_001.testUserRegistration(TC_TestCases_001.java:32)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -187,93 +260,8 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginData -->
-        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@4145bad8]" started-at="2024-12-11T11:44:59 IST" name="loginData" data-provider="getdata" finished-at="2024-12-11T11:45:12 IST" duration-ms="12714" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mngr6017]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[UsyvAde]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginData -->
-        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@4145bad8]" started-at="2024-12-11T11:45:12 IST" name="loginData" data-provider="getdata" finished-at="2024-12-11T11:45:17 IST" duration-ms="5132" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mallikarjundalal409@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Arjun@9738522340]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginData -->
-        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@4145bad8]" started-at="2024-12-11T11:45:17 IST" name="loginData" data-provider="getdata" finished-at="2024-12-11T11:45:29 IST" duration-ms="12550" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginData -->
-        <test-method signature="loginData(java.lang.String,java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@4145bad8]" started-at="2024-12-11T11:45:29 IST" name="loginData" data-provider="getdata" finished-at="2024-12-11T11:45:42 IST" duration-ms="12566" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginData -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_002@4145bad8]" started-at="2024-12-11T11:45:42 IST" name="tearDown" finished-at="2024-12-11T11:45:42 IST" duration-ms="390" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.automationFramev1.testCases.TC_TestCases_002 -->
-      <class name="com.automationFramev1.testCases.TC_TestCases_001">
-        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@1e6a3214]" started-at="2024-12-11T11:44:33 IST" name="initializeDriver" finished-at="2024-12-11T11:44:40 IST" duration-ms="6316" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initializeDriver -->
-        <test-method signature="testUserRegistration()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@1e6a3214]" started-at="2024-12-11T11:44:40 IST" name="testUserRegistration" finished-at="2024-12-11T11:44:49 IST" duration-ms="8824" status="PASS">
-          <reporter-output>
-          </reporter-output>
         </test-method> <!-- testUserRegistration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@1e6a3214]" started-at="2024-12-11T11:44:49 IST" name="tearDown" finished-at="2024-12-11T11:44:49 IST" duration-ms="445" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationFramev1.testCases.TC_TestCases_001@55a147cc]" started-at="2024-12-12T10:25:48 IST" name="tearDown" finished-at="2024-12-12T10:25:49 IST" duration-ms="321" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

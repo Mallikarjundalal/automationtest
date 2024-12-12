@@ -30,13 +30,14 @@ public class TC_TestCases_003 extends Baseclass {
 	logger.info("click shopcarticon addtocart");
 	Thread.sleep(2000);
 
-	hm.clickclearsendkeys("Selenium Ruby", "4");
+	hm.clickclearsendkeys("Selenium Ruby", 4);
 	logger.info("seleniumRuby added to cart");
+
 	
-	hm.clickclearsendkeys("Thinking in HTML", "2");
+	hm.clickclearsendkeys("Thinking in HTML", 2);
 	logger.info("Thinking in HTML added to cart");
 	
-	hm.clickclearsendkeys("Mastering JavaScript", "3");
+	hm.clickclearsendkeys("Mastering JavaScript", 2);
 	logger.info("Mastering JavaScript added to cart");
 	Thread.sleep(5000);
 	hm.proceedcheckoutButton.click();

@@ -1795,3 +1795,246 @@ Session ID: 0389d3c4bac990290b33f7af73029f27
 2024-12-11 11:45:55 INFO  Baseclass:30 - click shopcarticon addtocart
 2024-12-11 11:45:59 INFO  Baseclass:34 - seleniumRuby added to cart
 2024-12-11 11:46:21 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 20:22:14 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 20:22:16 INFO  Baseclass:30 - Clicked on Shop Menu
+2024-12-11 20:22:18 INFO  Baseclass:35 - Clicked on Home Menu
+2024-12-11 20:22:18 INFO  Baseclass:40 - Number of Arrivals on the Home page: 3
+2024-12-11 20:22:18 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 22:31:15 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 22:31:30 INFO  Baseclass:30 - Clicked on Shop Menu
+2024-12-11 22:31:32 INFO  Baseclass:35 - Clicked on Home Menu
+2024-12-11 22:31:33 INFO  Baseclass:40 - Number of Arrivals on the Home page: 3
+2024-12-11 22:31:35 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 22:50:50 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 22:50:53 INFO  Baseclass:27 - Clicked on Shop Menu
+2024-12-11 22:50:58 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-11 22:52:53 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-11 22:52:55 INFO  Baseclass:27 - Clicked on Shop Menu
+2024-12-11 22:53:01 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 08:49:30 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 08:49:31 INFO  Baseclass:27 - Clicked on Shop Menu
+2024-12-12 08:49:37 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 10:20:19 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 10:20:20 INFO  Baseclass:22 - Clicked on 'My Account'
+2024-12-12 10:20:21 INFO  Baseclass:27 - Entered email: mallikarjundalal409@gmail.com
+2024-12-12 10:20:21 INFO  Baseclass:29 - Entered password
+2024-12-12 10:20:23 INFO  Baseclass:33 - Clicked on 'Register' button
+2024-12-12 10:20:24 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 10:20:29 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 10:20:31 INFO  Baseclass:83 - Data loaded successfully from Excel
+2024-12-12 10:20:32 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 10:20:33 INFO  Baseclass:30 - Entered Username: mng605786
+2024-12-12 10:20:33 INFO  Baseclass:33 - Entered Password
+2024-12-12 10:20:33 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 10:20:45 ERROR Baseclass:52 - Login failed for user: mng605786
+2024-12-12 10:20:47 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 10:20:47 INFO  Baseclass:30 - Entered Username: mngr6017
+2024-12-12 10:20:47 INFO  Baseclass:33 - Entered Password
+2024-12-12 10:20:47 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 10:21:00 ERROR Baseclass:52 - Login failed for user: mngr6017
+2024-12-12 10:21:02 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 10:21:02 INFO  Baseclass:30 - Entered Username: mallikarjundalal409@gmail.com
+2024-12-12 10:21:03 INFO  Baseclass:33 - Entered Password
+2024-12-12 10:21:03 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 10:21:05 INFO  Baseclass:43 - Login successful for user: mallikarjundalal409@gmail.com
+2024-12-12 10:21:06 INFO  Baseclass:47 - Logged out successfully for user: mallikarjundalal409@gmail.com
+2024-12-12 10:21:08 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 10:21:08 INFO  Baseclass:30 - Entered Username: 
+2024-12-12 10:21:08 INFO  Baseclass:33 - Entered Password
+2024-12-12 10:21:08 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 10:21:22 ERROR Baseclass:52 - Login failed for user: 
+2024-12-12 10:21:24 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 10:21:24 INFO  Baseclass:30 - Entered Username: 
+2024-12-12 10:21:24 INFO  Baseclass:33 - Entered Password
+2024-12-12 10:21:24 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 10:21:36 ERROR Baseclass:52 - Login failed for user: 
+2024-12-12 10:21:36 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 10:21:42 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 10:21:45 INFO  Baseclass:19 - click shopbutton
+2024-12-12 10:21:46 INFO  Baseclass:21 - click home button
+2024-12-12 10:21:47 INFO  Baseclass:23 - click product1 addtocart
+2024-12-12 10:21:47 INFO  Baseclass:25 - click product2 addtocart
+2024-12-12 10:21:47 INFO  Baseclass:27 - click product3 addtocart
+2024-12-12 10:21:51 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-12 10:22:15 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 10:22:20 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 10:22:23 INFO  Baseclass:30 - Clicked on Shop Menu
+2024-12-12 10:22:25 INFO  Baseclass:35 - Clicked on Home Menu
+2024-12-12 10:22:25 INFO  Baseclass:40 - Number of Arrivals on the Home page: 3
+2024-12-12 10:22:25 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 10:22:38 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 10:22:41 INFO  Baseclass:27 - Clicked on Shop Menu
+2024-12-12 10:22:47 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 10:25:44 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 10:25:46 INFO  Baseclass:22 - Clicked on 'My Account'
+2024-12-12 10:25:47 INFO  Baseclass:27 - Entered email: mallikarjundalal409@gmail.com
+2024-12-12 10:25:47 INFO  Baseclass:29 - Entered password
+2024-12-12 10:25:49 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 10:25:55 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 10:25:56 INFO  Baseclass:83 - Data loaded successfully from Excel
+2024-12-12 10:25:59 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 10:25:59 INFO  Baseclass:30 - Entered Username: mng605786
+2024-12-12 10:25:59 INFO  Baseclass:33 - Entered Password
+2024-12-12 10:25:59 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 10:26:11 ERROR Baseclass:52 - Login failed for user: mng605786
+2024-12-12 10:26:12 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 10:26:12 INFO  Baseclass:30 - Entered Username: mngr6017
+2024-12-12 10:26:12 INFO  Baseclass:33 - Entered Password
+2024-12-12 10:26:12 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 10:26:24 ERROR Baseclass:52 - Login failed for user: mngr6017
+2024-12-12 10:26:26 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 10:26:26 INFO  Baseclass:30 - Entered Username: mallikarjundalal409@gmail.com
+2024-12-12 10:26:26 INFO  Baseclass:33 - Entered Password
+2024-12-12 10:26:26 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 10:26:28 INFO  Baseclass:43 - Login successful for user: mallikarjundalal409@gmail.com
+2024-12-12 10:26:36 INFO  Baseclass:47 - Logged out successfully for user: mallikarjundalal409@gmail.com
+2024-12-12 10:26:39 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 10:26:40 INFO  Baseclass:30 - Entered Username: 
+2024-12-12 10:26:40 INFO  Baseclass:33 - Entered Password
+2024-12-12 10:26:40 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 10:26:53 ERROR Baseclass:52 - Login failed for user: 
+2024-12-12 10:26:54 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 10:26:54 INFO  Baseclass:30 - Entered Username: 
+2024-12-12 10:26:54 INFO  Baseclass:33 - Entered Password
+2024-12-12 10:26:54 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 10:27:06 ERROR Baseclass:52 - Login failed for user: 
+2024-12-12 10:27:06 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 10:27:18 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 10:27:20 INFO  Baseclass:19 - click shopbutton
+2024-12-12 10:27:21 INFO  Baseclass:21 - click home button
+2024-12-12 10:27:22 INFO  Baseclass:23 - click product1 addtocart
+2024-12-12 10:27:22 INFO  Baseclass:25 - click product2 addtocart
+2024-12-12 10:27:22 INFO  Baseclass:27 - click product3 addtocart
+2024-12-12 10:27:26 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-12 10:27:29 INFO  Baseclass:34 - seleniumRuby added to cart
+2024-12-12 10:27:31 INFO  Baseclass:38 - Thinking in HTML added to cart
+2024-12-12 10:27:33 INFO  Baseclass:41 - Mastering JavaScript added to cart
+2024-12-12 10:27:39 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 10:27:45 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 10:27:48 INFO  Baseclass:30 - Clicked on Shop Menu
+2024-12-12 10:27:50 INFO  Baseclass:35 - Clicked on Home Menu
+2024-12-12 10:27:50 INFO  Baseclass:40 - Number of Arrivals on the Home page: 3
+2024-12-12 10:27:50 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 10:27:54 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 10:27:56 INFO  Baseclass:27 - Clicked on Shop Menu
+2024-12-12 10:28:01 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 18:02:42 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 18:02:44 INFO  Baseclass:22 - Clicked on 'My Account'
+2024-12-12 18:02:44 INFO  Baseclass:27 - Entered email: mallikarjundalal409@gmail.com
+2024-12-12 18:02:45 INFO  Baseclass:29 - Entered password
+2024-12-12 18:02:46 INFO  Baseclass:33 - Clicked on 'Register' button
+2024-12-12 18:02:46 INFO  Baseclass:38 - Validated registration error message
+2024-12-12 18:02:48 INFO  Baseclass:42 - Clicked on 'Login' button
+2024-12-12 18:02:48 INFO  Baseclass:45 - Validated username missing error message
+2024-12-12 18:02:50 INFO  Baseclass:50 - Clicked on 'Login' button after entering username
+2024-12-12 18:02:51 INFO  Baseclass:53 - Validated password missing error message
+2024-12-12 18:02:51 INFO  Baseclass:57 - Entered password
+2024-12-12 18:02:52 INFO  Baseclass:59 - Clicked on 'Login' button
+2024-12-12 18:02:52 INFO  Baseclass:79 - Screenshot captured for test: TC_TestCases_001
+2024-12-12 18:02:53 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 18:02:55 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 18:02:57 INFO  Baseclass:83 - Data loaded successfully from Excel
+2024-12-12 18:03:00 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 18:03:00 INFO  Baseclass:30 - Entered Username: mng605786
+2024-12-12 18:03:00 INFO  Baseclass:33 - Entered Password
+2024-12-12 18:03:00 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 18:03:12 ERROR Baseclass:52 - Login failed for user: mng605786
+2024-12-12 18:03:13 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 18:03:14 INFO  Baseclass:30 - Entered Username: mngr6017
+2024-12-12 18:03:14 INFO  Baseclass:33 - Entered Password
+2024-12-12 18:03:14 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 18:03:25 ERROR Baseclass:52 - Login failed for user: mngr6017
+2024-12-12 18:03:27 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 18:03:27 INFO  Baseclass:30 - Entered Username: mallikarjundalal409@gmail.com
+2024-12-12 18:03:27 INFO  Baseclass:33 - Entered Password
+2024-12-12 18:03:27 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 18:03:29 INFO  Baseclass:43 - Login successful for user: mallikarjundalal409@gmail.com
+2024-12-12 18:03:31 INFO  Baseclass:47 - Logged out successfully for user: mallikarjundalal409@gmail.com
+2024-12-12 18:03:32 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 18:03:33 INFO  Baseclass:30 - Entered Username: 
+2024-12-12 18:03:33 INFO  Baseclass:33 - Entered Password
+2024-12-12 18:03:33 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 18:03:44 ERROR Baseclass:52 - Login failed for user: 
+2024-12-12 18:03:46 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 18:03:46 INFO  Baseclass:30 - Entered Username: 
+2024-12-12 18:03:46 INFO  Baseclass:33 - Entered Password
+2024-12-12 18:03:46 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 18:03:58 ERROR Baseclass:52 - Login failed for user: 
+2024-12-12 18:03:58 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 18:04:03 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 18:04:04 INFO  Baseclass:19 - click shopbutton
+2024-12-12 18:04:06 INFO  Baseclass:21 - click home button
+2024-12-12 18:04:06 INFO  Baseclass:23 - click product1 addtocart
+2024-12-12 18:04:06 INFO  Baseclass:25 - click product2 addtocart
+2024-12-12 18:04:06 INFO  Baseclass:27 - click product3 addtocart
+2024-12-12 18:04:10 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-12 18:04:36 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 18:04:42 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 18:04:44 INFO  Baseclass:30 - Clicked on Shop Menu
+2024-12-12 18:04:48 INFO  Baseclass:35 - Clicked on Home Menu
+2024-12-12 18:04:48 INFO  Baseclass:40 - Number of Arrivals on the Home page: 3
+2024-12-12 18:04:48 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 18:04:53 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 18:04:55 INFO  Baseclass:27 - Clicked on Shop Menu
+2024-12-12 18:05:01 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 18:20:17 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 18:20:22 INFO  Baseclass:25 - Clicked on 'My Account'
+2024-12-12 18:20:22 INFO  Baseclass:30 - Entered email: mallikarjundalal409@gmail.com
+2024-12-12 18:20:23 INFO  Baseclass:32 - Entered password
+2024-12-12 18:20:24 INFO  Baseclass:36 - Clicked on 'Register' button
+2024-12-12 18:20:24 INFO  Baseclass:41 - Validated registration error message
+2024-12-12 18:20:26 INFO  Baseclass:45 - Clicked on 'Login' button
+2024-12-12 18:20:26 INFO  Baseclass:48 - Validated username missing error message
+2024-12-12 18:20:28 INFO  Baseclass:53 - Clicked on 'Login' button after entering username
+2024-12-12 18:20:28 INFO  Baseclass:56 - Validated password missing error message
+2024-12-12 18:20:28 INFO  Baseclass:60 - Entered password
+2024-12-12 18:20:30 INFO  Baseclass:62 - Clicked on 'Login' button
+2024-12-12 18:20:30 INFO  Baseclass:79 - Screenshot captured for test: TC_TestCases_001
+2024-12-12 18:20:31 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 18:20:32 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 18:20:35 INFO  Baseclass:83 - Data loaded successfully from Excel
+2024-12-12 18:20:39 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 18:20:39 INFO  Baseclass:30 - Entered Username: mng605786
+2024-12-12 18:20:39 INFO  Baseclass:33 - Entered Password
+2024-12-12 18:20:39 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 18:20:51 ERROR Baseclass:52 - Login failed for user: mng605786
+2024-12-12 18:20:53 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 18:20:53 INFO  Baseclass:30 - Entered Username: mngr6017
+2024-12-12 18:20:53 INFO  Baseclass:33 - Entered Password
+2024-12-12 18:20:53 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 18:21:05 ERROR Baseclass:52 - Login failed for user: mngr6017
+2024-12-12 18:21:06 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 18:21:07 INFO  Baseclass:30 - Entered Username: mallikarjundalal409@gmail.com
+2024-12-12 18:21:07 INFO  Baseclass:33 - Entered Password
+2024-12-12 18:21:07 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 18:21:11 INFO  Baseclass:43 - Login successful for user: mallikarjundalal409@gmail.com
+2024-12-12 18:21:13 INFO  Baseclass:47 - Logged out successfully for user: mallikarjundalal409@gmail.com
+2024-12-12 18:21:15 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 18:21:16 INFO  Baseclass:30 - Entered Username: 
+2024-12-12 18:21:16 INFO  Baseclass:33 - Entered Password
+2024-12-12 18:21:16 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 18:21:19 INFO  Baseclass:27 - Clicked on 'My Account'
+2024-12-12 18:21:19 INFO  Baseclass:30 - Entered Username: 
+2024-12-12 18:21:19 INFO  Baseclass:33 - Entered Password
+2024-12-12 18:21:19 INFO  Baseclass:35 - Clicked on 'Login' button
+2024-12-12 18:21:30 ERROR Baseclass:52 - Login failed for user: 
+2024-12-12 18:21:31 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 18:21:36 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 18:21:40 INFO  Baseclass:19 - click shopbutton
+2024-12-12 18:21:43 INFO  Baseclass:21 - click home button
+2024-12-12 18:21:44 INFO  Baseclass:23 - click product1 addtocart
+2024-12-12 18:21:44 INFO  Baseclass:25 - click product2 addtocart
+2024-12-12 18:21:44 INFO  Baseclass:27 - click product3 addtocart
+2024-12-12 18:21:50 INFO  Baseclass:30 - click shopcarticon addtocart
+2024-12-12 18:21:54 INFO  Baseclass:34 - seleniumRuby added to cart
+2024-12-12 18:21:55 INFO  Baseclass:38 - Thinking in HTML added to cart
+2024-12-12 18:21:57 INFO  Baseclass:41 - Mastering JavaScript added to cart
+2024-12-12 18:22:05 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 18:22:11 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 18:22:14 INFO  Baseclass:30 - Clicked on Shop Menu
+2024-12-12 18:22:18 INFO  Baseclass:35 - Clicked on Home Menu
+2024-12-12 18:22:18 INFO  Baseclass:40 - Number of Arrivals on the Home page: 3
+2024-12-12 18:22:18 INFO  Baseclass:70 - Browser closed successfully.
+2024-12-12 18:22:20 INFO  Baseclass:63 - Opened application: https://practice.automationtesting.in/
+2024-12-12 18:22:28 INFO  Baseclass:27 - Clicked on Shop Menu
+2024-12-12 18:22:37 INFO  Baseclass:70 - Browser closed successfully.
